@@ -33,7 +33,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 4. **Configurer les variables d'environnement :**
 ```bash
     cp .env.example .env 
-```
+  ```
 5. **Exécuter les migrations et seeders :**
 ```bash
      php artisan migrate --seed
@@ -48,7 +48,7 @@ Vous pouvez maintenant démarrer le serveur Laravel avec :
 ```bash  
 php artisan serve 
 ```
-- L'application sera accessible sur ```bash http://localhost:8000 ```
+- L'application sera accessible sur ``` http://localhost:8000 ```
 
 ## Comment travailler sur le projet
 
@@ -68,7 +68,7 @@ Assurez-vous d'obtenir l'autorisation nécessaire pour travailler sur le projet.
     
 - Travaillez sur votre branche en effectuant les modifications nécessaires.
     
-- Une fois que vous avez terminé les modifications, ajoutez les fichiers modifiés au suivi Git en utilisant la commande : ```bash git add ```.
+- Une fois que vous avez terminé les modifications, ajoutez les fichiers modifiés au suivi Git en utilisant la commande : ``` git add ```
 
 - Validez vos modifications en créant un commit descriptif : 
 ```bash
